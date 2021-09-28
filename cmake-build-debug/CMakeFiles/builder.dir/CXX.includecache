@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/builder/main.cpp
+src/Method.h
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/builder/src/Method.h
+
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/builder/src/Method.h
+iostream
+-
+vector
+-
+
